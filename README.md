@@ -1,1 +1,1 @@
-# StudentManagementSpring
+# This is my project with StudentManagementSpringMVC
